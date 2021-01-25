@@ -2,5 +2,5 @@
 
 ### Ссылки:
 
-[Git](Git\init.md)
++ **[Git](Git\init.md)**
 

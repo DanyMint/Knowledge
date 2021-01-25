@@ -2,9 +2,9 @@
 
 # Это моя база знаний по:
 
-- [Математике](D:\Knowledge\Math\Math.md)
+- [Математике](Math\Math.md)
 
-- [Компьютерным наукам](D:\Knowledge\Computer scince\Сomputer science.md)
+- [Компьютерным наукам](D:\Knowledge\Computer_scince\Сomputer_science.md)
 
 - [Английскому?](English\ENG.md)
 
@@ -13,3 +13,6 @@
 Так что после каждой записи буду делать push в [GItHub](https://gist.github.com/DanyMint).
 
 > Пока выглядит не очень но это пока :eyes:
+
+
+
