@@ -1,24 +1,21 @@
+![image][img]
 
+# Ссылки на ***main*** страницы
 
-# Это моя база знаний по:
+- ## [Математике](./Math/main.md)
 
-Локальная ссылка
-- [Математике](Math\Math.md)
-- [Компьютерным наукам](D:\Knowledge\Computer_scince\Сomputer_science.md)
-- [Английскому?](English\ENG.md)
+- ## [Компьютерным наукам](./Computer_scince/main.md)
 
+- ## [Английскому?](./English/main.md)
 
-Ссылка для GItHub
+- ## [Mark Down](./Markdown/main.md)
 
-- [Математике]([Knowledge_data_base/Math.md at main · DanyMint/Knowledge_data_base (github.com)](https://github.com/DanyMint/Knowledge_data_base/blob/main/Math/Math.md))
-- [Компьютерным наукам]([Knowledge_data_base/Сomputer_science.md at main · DanyMint/Knowledge_data_base (github.com)](https://github.com/DanyMint/Knowledge_data_base/blob/main/Computer_scince/Сomputer_science.md))
-- [Английскому?]([Knowledge_data_base/ENG.md at main · DanyMint/Knowledge_data_base (github.com)](https://github.com/DanyMint/Knowledge_data_base/blob/main/English/ENG.md))
+- ## [Философия](./philosophy/main.md)
 
-Выбрал пока что **Typora** потому что эта программа мне показалась более удобной чем другие варианты. 
-
-Так что после каждой записи буду делать push в [GItHub](https://gist.github.com/DanyMint).
-
-> Пока выглядит не очень но это пока :eyes:
+- ## [Биология](D:\Knowledge\Biology\main.md)
 
 
 
+Technical link:
+
+[img]: https://helpiewp.com/wp-content/uploads/2018/02/Screen-Shot-2018-02-28-at-2.50.11-PM.png
