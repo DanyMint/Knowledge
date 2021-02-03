@@ -14,7 +14,10 @@
 
 - ## [Биология](D:\Knowledge\Biology\main.md)
 
+## Чекнуть потом:
 
+[FreeNAS и интересный корпус](https://www.youtube.com/watch?v=KwRlrgKzta0)
+[Образовач про NAS и RAID](https://www.youtube.com/watch?v=8pCLwB_zIAk)
 
 Technical link:
 
