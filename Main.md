@@ -18,6 +18,7 @@
 
 [FreeNAS и интересный корпус](https://www.youtube.com/watch?v=KwRlrgKzta0)
 [Образовач про NAS и RAID](https://www.youtube.com/watch?v=8pCLwB_zIAk)
+[Мотивация](https://www.youtube.com/watch?v=YxJ_NAZsURs)
 
 Technical link:
 
