@@ -18,7 +18,7 @@
 		- [ ] GPU
 		- [ ] ОЗУ
 		- [ ] ПЗУ
-			- [ ] RAID
+			- [ ] RAID([Почему RAID6 надежнее, чем RAID5. Что хорошего в Thunderbolt. И тест Lacie 6Big. - YouTube](https://www.youtube.com/watch?v=ihYk0tWfTQg))
 			- [ ] SSD
 			- [ ] HDD 
 		- [ ] BIOS
