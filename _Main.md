@@ -2,7 +2,7 @@
 
 
 
-![image][img]
+![image](https://helpiewp.com/wp-content/uploads/2018/02/Screen-Shot-2018-02-28-at-2.50.11-PM.png)
 
 # Ссылки на ***main*** страницы
 
@@ -20,7 +20,21 @@
 
 - ## [**Рецепты**](D:/Knowledge/Рецепты/main.md)
 
+- ## [Фирменный стиль](Фирменный стиль/main.md)
+
 ## Чекнуть потом :
+
+([Rendering markdown from Flask - DEV Community](https://dev.to/mrprofessor/rendering-markdown-from-flask-1l41))
+([How To Use Python-Markdown with Flask and SQLite | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-use-python-markdown-with-flask-and-sqlite))
+
+[Соответствие консольных команд Windows и Linux. (white55.ru)](https://white55.ru/cmd-sh.html)
+
+> Это ссылки для собственно базы знаний на Flask
+>
+
+
+
+
 
 [Про крема](https://www.youtube.com/watch?v=eAUC81p8WMU)
 [Про CS](https://www.youtube.com/watch?v=ip66mO6sdf8)
@@ -32,4 +46,4 @@
 [Мотивация](https://www.youtube.com/watch?v=YxJ_NAZsURs)
 [Механические клавиатуры. Эргономичные клавиатуры. ErgoDox Ergo42 Dactyl Manuform Leopold Iris Tofu - YouTube](https://www.youtube.com/watch?v=HMeje0Iz9vQ)
 
-[img]: https://helpiewp.com/wp-content/uploads/2018/02/Screen-Shot-2018-02-28-at-2.50.11-PM.png
+[Про синхронизацию](https://www.youtube.com/watch?v=mCAABYiR9YM)
