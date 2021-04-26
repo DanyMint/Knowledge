@@ -11,6 +11,7 @@
 		- [ ] Теория типов
 2. - [ ] Железо
 		- [ ] Транзистор
+		- [ ] [Exploring How Computers Work - YouTube](https://www.youtube.com/watch?v=QZwneRb-zqA)
 		- [ ] Сумматор
 		- [ ] Вентиль
 		- [ ]  CPU 

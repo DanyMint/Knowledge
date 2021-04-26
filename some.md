@@ -1,5 +1,17 @@
 # Что-то что заинтересовало:
 
+## Сервера
+
+[Как поднять домашний сервер со своим доменом своими руками? - YouTube](https://www.youtube.com/watch?v=avl5rVi-HNo&t=734s)
+
+[Чем отличаются хостинг и VPS сервер: хостинг для сайта, VPN сервер и виртуальный Windows VDS - YouTube](https://www.youtube.com/watch?v=_YNAV95jLZI&t=287s)
+
+[Тарифы на хостинг эпичных серверов — VDSina.ru](https://vdsina.ru/pricing)
+
+https://vscale.io/ru/features.html
+
+
+
 ## Биология
 
 - [Хавортия купера](https://vk.com/@-180137569-havortiya-kupera)
@@ -22,13 +34,17 @@
     
 ## Философия
 - [Почему все мыши погибли? Эксперимент "Вселенная 25" | как это было - YouTube](https://www.youtube.com/watch?v=n--T-yKEnCQ)
-
 - [Ошибка невозвратных затрат - YouTube](https://www.youtube.com/watch?v=elDKCe55XBg)
+- [Что такое МЕНТАЛИТЕТ? — Научпок - YouTube](https://www.youtube.com/watch?v=J1aitUJXrtY)
 
 
 
 ## Всякое
 
+- Оличие VDS от отдельного сервера
+
+- [8 To $700 Keyboard Sound - YouTube](https://www.youtube.com/watch?v=lFxqG-rio3E)
+> мне понравилось пару клав :arrow_up:
 - [Про крема](https:\\www.youtube.com\watch?v=eAUC81p8WMU)
 - [Про CS](https:\\www.youtube.com\watch?v=ip66mO6sdf8)
 - [Ингресс](https:\\kubernetes.io\docs\concepts\services-networking\ingress\)
@@ -40,5 +56,4 @@
 - [Механические клавиатуры. Эргономичные клавиатуры. 
 - [ErgoDox Ergo42 Dactyl Manuform Leopold Iris Tofu - YouTube](https:\\www.youtube.com\watch?v=HMeje0Iz9vQ)
 - [Про синхронизацию](https:\\www.youtube.com\watch?v=mCAABYiR9YM)
-
-## 
+- [0. Документация сети - Сети Для Самых Маленьких (gitbook.io)](https://linkmeup.gitbook.io/sdsm/0.-planirovanie/0.-dokumentaciya-seti)
