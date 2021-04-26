@@ -11,8 +11,13 @@
 - ([Rendering markdown from Flask - DEV Community](https:\\dev.to\mrprofessor\rendering-markdown-from-flask-1l41))
 - ([How To Use Python-Markdown with Flask and SQLite | DigitalOcean](https:\\www.digitalocean.com\community\tutorials\how-to-use-python-markdown-with-flask-and-sqlite))
 
+## Мой сервер
 
-
+- [Плагин для картинок](https://snyk.io/advisor/npm-package/gitbook-plugin-image-captions)
+- [Многие плагины взяты отсюда](https://github.com/swapagarwal/awesome-gitbook-plugins)
+- [Плагин темы](https://www.npmjs.com/package/gitbook-plugin-theme-code)
+- [Прикольнный плагин](https://github.com/jadu/gitbook-theme)
+- 
 ## Linux Shell
 
 - Kazakh.md[Как сменить редактор в ranger — Desktop — Форум (linux.org.ru)](https://www.linux.org.ru/forum/desktop/10723784)
