@@ -2,7 +2,7 @@
 
 ------
 
-<img src="D:\Knowledge\Math\img\exercise_algebra_equations.jpg" alt="задания по математике"  />
+<img src="img\exercise_algebra_equations.jpg" alt="задания по математике"  />
 
 -----
 
