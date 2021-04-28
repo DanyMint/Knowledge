@@ -151,5 +151,4 @@ sudo vim SUMMARY.md
 
 ~~~markdown
 * [Wellcome page](README.md)
-## Your book
 ~~~

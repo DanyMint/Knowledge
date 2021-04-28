@@ -10,7 +10,12 @@
 
 https://vscale.io/ru/features.html
 
+## Logo
 
+- [Mohamed Achraf  канал](https://www.youtube.com/c/MohamedAchraf/videos)
+
+- [(1) Warp Text To 3D Shapes in Adobe Illustrator | Graphic design - YouTube](https://www.youtube.com/watch?v=zyvkmxfsa1Q)
+- [(1) Adobe Illustrator Tutorial: Create a Vector Pizza from Sketch (HD) - YouTube](https://www.youtube.com/watch?v=KZP6RQu_F6U)
 
 ## Биология
 
@@ -25,11 +30,8 @@ https://vscale.io/ru/features.html
 
 ## Мой сервер
 
-- [Плагин для картинок](https://snyk.io/advisor/npm-package/gitbook-plugin-image-captions)
-- [Многие плагины взяты отсюда](https://github.com/swapagarwal/awesome-gitbook-plugins)
-- [Плагин темы](https://www.npmjs.com/package/gitbook-plugin-theme-code)
-- [Прикольнный плагин](https://github.com/jadu/gitbook-theme)
-- 
+
+
 ## Linux Shell
 
 - Kazakh.md[Как сменить редактор в ranger — Desktop — Форум (linux.org.ru)](https://www.linux.org.ru/forum/desktop/10723784)
