@@ -46,8 +46,8 @@ https://vscale.io/ru/features.html
 
 ## Всякое
 
+- [11 убеждений, которые изменили мою жизнь - YouTube](https://www.youtube.com/watch?v=OUNWbsj3ynA)
 - Оличие VDS от отдельного сервера
-
 - [8 To $700 Keyboard Sound - YouTube](https://www.youtube.com/watch?v=lFxqG-rio3E)
 > мне понравилось пару клав :arrow_up:
 - [Про крема](https:\\www.youtube.com\watch?v=eAUC81p8WMU)
