@@ -16,7 +16,7 @@ sudo apt install i3
 sudo apt install xinit
 ~~~
 
-
+---
 
 ## Config
 

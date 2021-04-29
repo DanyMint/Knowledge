@@ -53,6 +53,29 @@ clip < ~/.ssh/id_ed25519.pub
 Потом в гитхабе найти в настройках настройку  **SSH and GPG keys**.
 и создать новый SSH ключ.
 
-
+---
 
 ## Linux
+
+### OpenSSH подключение и  статус программы
+
+У меня постоянно отключался openssh и подключиться я не мог и вот решение этой проблемы:
+
+Хз зачем это .... но он говорит работает ли ssh
+
+~~~bash
+ssh localhost
+~~~
+
+Тут уже больше инфы и он говорит Active или Inactive сервер ssh 
+
+~~~bash
+sudo service ssh status
+~~~
+
+Запуск ssh
+
+~~~bash
+systemctl start sshd
+~~~
+

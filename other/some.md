@@ -30,6 +30,8 @@ https://vscale.io/ru/features.html
 
 ## Мой сервер
 
+[Уроки Django - Как стать программистом (itman.in)](https://itman.in/uroki-django/)
+
 
 
 ## Linux Shell
@@ -65,5 +67,4 @@ https://vscale.io/ru/features.html
 - [Про синхронизацию](https:\\www.youtube.com\watch?v=mCAABYiR9YM)
 
 - [0. Документация сети - Сети Для Самых Маленьких (gitbook.io)](https://linkmeup.gitbook.io/sdsm/0.-planirovanie/0.-dokumentaciya-seti)
-
 
