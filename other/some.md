@@ -1,6 +1,6 @@
 # Что-то что заинтересовало:
 
-## Финансы 
+## Финансы
 
 https://www.youtube.com/watch?v=sazgUfgNESQ&t=0s
 
@@ -17,6 +17,8 @@ https://www.youtube.com/watch?v=sazgUfgNESQ&t=0s
 
 https://vscale.io/ru/features.html
 
+[Реализация простейшего веб-сервера, развернутого на базе Docker - YouTube](https://www.youtube.com/watch?v=ZLaIll6t_yk)
+
 ## Logo
 
 - [Mohamed Achraf  канал](https://www.youtube.com/c/MohamedAchraf/videos)
@@ -27,6 +29,7 @@ https://vscale.io/ru/features.html
 ## Биология
 
 - [Хавортия купера](https://vk.com/@-180137569-havortiya-kupera)
+- 
 
 
 
@@ -65,7 +68,6 @@ https://vscale.io/ru/features.html
 ## Всякое
 
 - [11 убеждений, которые изменили мою жизнь - YouTube](https://www.youtube.com/watch?v=OUNWbsj3ynA)
-- Оличие VDS от отдельного сервера
 - [8 To $700 Keyboard Sound - YouTube](https://www.youtube.com/watch?v=lFxqG-rio3E)
 > мне понравилось пару клав :arrow_up:
 - [Про крема](https:\\www.youtube.com\watch?v=eAUC81p8WMU)
